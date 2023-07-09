@@ -39,6 +39,7 @@ nav >ul{
     font-weight: bold;
     font-size: larger;
     padding-top: 10px;
+    margin: 0 200px;
     
 }
 nav li{
@@ -49,4 +50,17 @@ nav li{
 nav a{
     text-decoration: none;
     color:#474747;
+}
+
+/*header related style*/
+.header{
+    background-color: #fff8f3 ;
+}
+.banner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+}
+.banner .profile-picture{
+    width: 500px;
+
 }
